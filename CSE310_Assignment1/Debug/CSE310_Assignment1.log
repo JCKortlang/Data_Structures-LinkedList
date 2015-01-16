@@ -1,0 +1,24 @@
+﻿Build started 1/21/2014 3:38:37 PM.
+     1>Project "E:\Google Drive\Arizona State University\CSE310_Nakamura\CSE310_Assignment1\CSE310_Assignment1\CSE310_Assignment1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Developer\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Assignment1.cpp BankAccount.cpp BankAccountNode.cpp LinkedList.cpp
+         LinkedList.cpp
+     1>e:\google drive\arizona state university\cse310_nakamura\cse310_assignment1\cse310_assignment1\linkedlist.cpp(103): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\google drive\arizona state university\cse310_nakamura\cse310_assignment1\cse310_assignment1\linkedlist.cpp(123): warning C4018: '<' : signed/unsigned mismatch
+         BankAccountNode.cpp
+         BankAccount.cpp
+         Generating Code...
+         Compiling...
+         Assignment1.cpp
+         Generating Code...
+       Link:
+         C:\Developer\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Google Drive\Arizona State University\CSE310_Nakamura\CSE310_Assignment1\Debug\CSE310_Assignment1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Google Drive\Arizona State University\CSE310_Nakamura\CSE310_Assignment1\Debug\CSE310_Assignment1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Google Drive\Arizona State University\CSE310_Nakamura\CSE310_Assignment1\Debug\CSE310_Assignment1.lib" /MACHINE:X86 Debug\BankAccount.obj
+         Debug\LinkedList.obj
+         Debug\BankAccountNode.obj
+         Debug\Assignment1.obj
+         CSE310_Assignment1.vcxproj -> E:\Google Drive\Arizona State University\CSE310_Nakamura\CSE310_Assignment1\Debug\CSE310_Assignment1.exe
+     1>Done Building Project "E:\Google Drive\Arizona State University\CSE310_Nakamura\CSE310_Assignment1\CSE310_Assignment1\CSE310_Assignment1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.38
